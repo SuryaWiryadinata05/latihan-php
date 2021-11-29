@@ -1,6 +1,6 @@
 <?php
 
-$lampulantas = "hijau";
+$lampulantas = "merah";
 
 if ($lampulantas == "merah") {
     echo "berhenti";
